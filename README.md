@@ -1,4 +1,4 @@
-![Software Developer ](https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/banner.jpg)
+<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/banner.jpg"  height="300" width="1000" style="object-fit:cover;" />
 
 
 # Hi there 👋, I'm Mohammad Azzouzi
