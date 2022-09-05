@@ -14,18 +14,23 @@ I enjoy working in a team environment where I can improve my skills, build my kn
 
 ## Recent Projects
 
-### A Blog-App & Quick-talk 
-<p style="display:flex; align-items:center; justify-content:space-between; width=100%">
-<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Blog-App.jpg" alt="Blog_App"  height="300" width="500" style="background-size:contain"/>
-<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Quick-talk.jpg" alt="Blog_App"  height="300" width="500" style="background-size:contain" />
-</p>
+### A Blog-App 
+
+<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Blog-App.jpg" alt="Blog_App"  height="300" />
+
+### Quick-talk 
+
+<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Quick-talk.jpg" alt="Blog_App"  height="300"  />
 
 
-### Books Library & Algo-Visualizer
-<p style="display:flex; align-items:center; justify-content:space-between; width=100%">
-<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Books%20Library.jpg" alt="Blog_App" height="300" width="500" style="background-size:contain"/>
-<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Algo%20Visualizer.jpg" alt="Blog_App"  height="300" width="500" style="background-size:contain"/>
-</p>
+
+### Books Library
+<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Books%20Library.jpg" alt="Blog_App" height="300"  />
+
+### Algo-Visualizer
+
+<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Algo%20Visualizer.jpg" alt="Blog_App"  height="300"  />
+
 
 
 <h3 align="left">Connect with me</h3>
