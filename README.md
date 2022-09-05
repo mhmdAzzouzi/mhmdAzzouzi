@@ -1,4 +1,4 @@
-![Software Developer ](https://www.cuinsight.com/wp-content/uploads/2018/05/bigstock-Modern-Design-Digital-Wallpape-234904279-2.jpg)
+![Software Developer ](https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/banner.jpg)
 
 
 # Hi there 👋, I'm Mohammad Azzouzi
