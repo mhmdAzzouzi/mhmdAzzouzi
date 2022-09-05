@@ -23,7 +23,7 @@ I enjoy working in a team environment where I can improve my skills, build my kn
 
 ### Books Library & Algo-Visualizer
 <p style="display:flex; align-items:center; justify-content:space-between; width=100%">
-<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Books%20Library.jpg" alt="Blog_App" height="300" width="500 style="background-size:contain"/>
+<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Books%20Library.jpg" alt="Blog_App" height="300" width="500" style="background-size:contain"/>
 <img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Algo%20Visualizer.jpg" alt="Blog_App"  height="300" width="500" style="background-size:contain"/>
 </p>
 
