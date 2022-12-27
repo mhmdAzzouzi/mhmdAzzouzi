@@ -36,7 +36,6 @@ I enjoy working in a team environment where I can improve my skills, build my kn
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-azzouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-azzouzi" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmd.azzouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmd.azzouzi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
