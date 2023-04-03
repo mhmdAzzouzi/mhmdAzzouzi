@@ -18,9 +18,6 @@ I enjoy working in a team environment where I can improve my skills, build my kn
 
 <img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Blog-App.jpg" alt="Blog_App"  height="300" />
 
-### Quick-talk 
-
-<img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/Quick-talk.jpg" alt="Blog_App"  height="300"  />
 
 
 
