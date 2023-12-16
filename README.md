@@ -7,7 +7,7 @@
 
 I enjoy working in a team environment where I can improve my skills, build my knowledge and be productive. learning new things each day in science and tech is a life time goal of mine. 
 
-- ✅ currently working on finishing my B.S
+- ✅ B.S in Computer Science
 - 🤖 Huge passion for Artificial intelligence
 - 📚 planning on getting a Ph.D in CS 
 - 👩‍💻 Coding and Coffee <3
