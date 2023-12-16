@@ -1,18 +1,6 @@
 <img src="https://github.com/mhmdAzzouzi/mhmdAzzouzi/blob/main/banner.jpg"  height="300" width="1000" style="object-fit:cover;" />
 
 
-# Hi there 👋, I'm Mohammad Azzouzi
-## Software Developer 
-
-
-I enjoy working in a team environment where I can improve my skills, build my knowledge and be productive. learning new things each day in science and tech is a life time goal of mine. 
-
-- ✅ B.S in Computer Science
-- 🤖 Huge passion for Artificial intelligence
-- 📚 planning on getting a Ph.D in CS 
-- 👩‍💻 Coding and Coffee <3
-
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-azzouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-azzouzi" height="30" width="40" /></a>
